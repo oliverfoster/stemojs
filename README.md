@@ -1,6 +1,8 @@
 stemojs
 =======
 
+Requires underscorejs and backbonejs    
+  
 (Semi-Transparent) Evented Model Overlay - used for overlaying JSON models that require change/addition/removal events
   
   
